@@ -1,0 +1,12 @@
+com\naruto\orderservice\dto\InventroyResponse.class
+com\naruto\orderservice\service\OrderService.class
+com\naruto\orderservice\controller\OrderController.class
+com\naruto\orderservice\model\Order$OrderBuilder.class
+com\naruto\orderservice\dto\OrderLineItemsDto.class
+com\naruto\orderservice\model\OrderLineItems.class
+com\naruto\orderservice\repository\OrderRepository.class
+com\naruto\orderservice\OrderServiceApplication.class
+com\naruto\orderservice\dto\OrderRequest.class
+com\naruto\orderservice\dto\InventroyResponse$InventroyResponseBuilder.class
+com\naruto\orderservice\config\WebClientConfig.class
+com\naruto\orderservice\model\Order.class

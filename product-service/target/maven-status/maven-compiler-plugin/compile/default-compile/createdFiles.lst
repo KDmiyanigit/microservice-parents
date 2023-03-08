@@ -1,0 +1,10 @@
+com\naruto\productservice\controller\ProductController.class
+com\naruto\productservice\model\Product$ProductBuilder.class
+com\naruto\productservice\repository\ProductRepository.class
+com\naruto\productservice\service\ProductService.class
+com\naruto\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\naruto\productservice\dto\ProductRequest.class
+com\naruto\productservice\dto\ProductResponse.class
+com\naruto\productservice\model\Product.class
+com\naruto\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\naruto\productservice\ProductServiceApplication.class

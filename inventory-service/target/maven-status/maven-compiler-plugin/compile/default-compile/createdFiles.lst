@@ -1,0 +1,7 @@
+com\naruto\inventoryservice\dto\InventroyResponse$InventroyResponseBuilder.class
+com\naruto\inventoryservice\model\Inventory.class
+com\naruto\inventoryservice\controller\InventoryController.class
+com\naruto\inventoryservice\dto\InventroyResponse.class
+com\naruto\inventoryservice\repository\InventoryRepository.class
+com\naruto\inventoryservice\service\InventoryService.class
+com\naruto\inventoryservice\InventoryServiceApplication.class
